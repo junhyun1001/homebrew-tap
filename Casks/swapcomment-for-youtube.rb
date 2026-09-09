@@ -1,6 +1,6 @@
 cask "swapcomment-for-youtube" do
   version "1.0.1"
-  sha256 "36bdb519cf25d92316f7ef5f1f55b2c1dd10a0e475669ab005969bf38af1f50d"
+  sha256 "5c3e357cddb65ff2b5c65fcae1cfd708b119ecc56cb6d1793598c92f643cee1c"
 
   url "https://github.com/junhyun1001/SwapComment-for-YouTube/releases/download/v#{version}/SwapComment-for-YouTube.zip"
   name "SwapComment for YouTube"
