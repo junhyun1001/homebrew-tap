@@ -7,7 +7,7 @@ cask "swapcomment-for-youtube" do
   desc "Lightweight native macOS client that brings YouTube comments to sidebar"
   homepage "https://github.com/junhyun1001/SwapComment-for-YouTube"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "SwapComment for YouTube.app"
 
